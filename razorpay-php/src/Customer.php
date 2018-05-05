@@ -32,4 +32,8 @@ class Customer extends Entity
 
         return $token;
     }
+
+    public function codingStyleFunctionDefinition() {
+       
+    }
 }
